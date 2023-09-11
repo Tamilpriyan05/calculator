@@ -16,7 +16,7 @@ console.log(displayvalue);
     displayvalue.value=eval(displayvalue.value);
    }
    catch (err){
-    alert("check the correcct method")
+    alert("Enter the correct method  ")
    }
      
  }
